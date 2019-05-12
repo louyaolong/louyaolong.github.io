@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lou&#39; Blog</title>
+  
+  <subtitle>BUG ? FUCK : HAPPY</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://louyaolong.github.io/"/>
+  <updated>2019-05-11T18:02:11.060Z</updated>
+  <id>https://louyaolong.github.io/</id>
+  
+  <author>
+    <name>louyaolong</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://louyaolong.github.io/uncategorized/2019/05/12/hello-world/"/>
+    <id>https://louyaolong.github.io/uncategorized/2019/05/12/hello-world/</id>
+    <published>2019-05-11T17:20:07.225Z</published>
+    <updated>2019-05-11T18:02:11.060Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><p>[TOC]</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><blockquote><p> More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p></blockquote><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://louyaolong.github.io/uncategorized/2019/05/11/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E8%AE%B0%E7%AC%94%E8%AE%B0/"/>
+    <id>https://louyaolong.github.io/uncategorized/2019/05/11/如何高效记笔记/</id>
+    <published>2019-05-11T15:44:14.969Z</published>
+    <updated>2019-05-11T16:10:57.962Z</updated>
+    
+    <content type="html"><![CDATA[<p>目录：<br>[TOC]</p><h2 id="笔记的种类"><a href="#笔记的种类" class="headerlink" title="笔记的种类"></a>笔记的种类</h2><ul><li>查阅类<blockquote><p>信息记录</p></blockquote></li><li>复习类<blockquote><p>学习资料</p></blockquote><h2 id="笔记目的"><a href="#笔记目的" class="headerlink" title="笔记目的"></a>笔记目的</h2><strong>根据笔记种类目的分为两种</strong></li></ul><ol><li>查看信息<blockquote><p>不需要思考，只需查到即可</p></blockquote></li><li>复习记录的资料<blockquote><p>需要思考，明确复习这篇笔记的目的，带着问题再去复习，而不是打开笔记即是内容<br>这样的复习效率是很低的，而且也不利于记忆</p></blockquote><h2 id="笔记记录思路、软件"><a href="#笔记记录思路、软件" class="headerlink" title="笔记记录思路、软件"></a>笔记记录思路、软件</h2></li></ol><ul><li>大纲<blockquote><p>思路：思维导图 —— 用来链接思路和具体<br>软件：<a href="https://www.processon.com/mindmap/5cd4597ae4b09b16ffd993cb" target="_blank" rel="noopener">processOn</a></p></blockquote></li><li>思路<blockquote><p>逻辑图、时序图、甬道图<br>—— 用来梳理逻辑<br>软件：<a href="https://www.processon.com/mindmap/5cd4597ae4b09b16ffd993cb" target="_blank" rel="noopener">processOn</a></p></blockquote></li><li>具体<blockquote><p>md文本笔记<br>—— 记录具体的细节<br>—— 笔记开头应有这篇笔记的目录，这样做有两个好处：</p><ul><li>查阅类笔记可让查阅者直接跳转至所需信息处</li><li>复习类笔记可让复习者了解这篇笔记的大纲，可先思考后再查看细节</li></ul><p>软件：typora</p></blockquote></li></ul><p><strong>以上</strong></p><p><img src="/Users/yaolonglou/Documents/android学习/趣生财活动浮窗逻辑.jpg" alt="url"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;目录：&lt;br&gt;[TOC]&lt;/p&gt;
+&lt;h2 id=&quot;笔记的种类&quot;&gt;&lt;a href=&quot;#笔记的种类&quot; class=&quot;headerlink&quot; title=&quot;笔记的种类&quot;&gt;&lt;/a&gt;笔记的种类&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;查阅类&lt;blockquote&gt;
+&lt;p&gt;信息记录&lt;/p&gt;
+&lt;/bl
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
