@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Lou&#39; Blog</title>
+  <title>LouYaolong&#39;s Blog</title>
   
   <subtitle>BUG ? FUCK : HAPPY</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://louyaolong.github.io/"/>
-  <updated>2019-05-13T01:27:58.294Z</updated>
+  <updated>2019-05-14T06:59:11.095Z</updated>
   <id>https://louyaolong.github.io/</id>
   
   <author>
-    <name>louyaolong</name>
+    <name>LouYaolong</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我想可以了</title>
-    <link href="https://louyaolong.github.io/uncategorized/2019/05/13/%E6%88%91%E6%83%B3%E5%8F%AF%E4%BB%A5%E4%BA%86/"/>
-    <id>https://louyaolong.github.io/uncategorized/2019/05/13/我想可以了/</id>
-    <published>2019-05-13T01:27:58.000Z</published>
-    <updated>2019-05-13T01:27:58.294Z</updated>
+    <title>index</title>
+    <link href="https://louyaolong.github.io/post/undefined.html"/>
+    <id>https://louyaolong.github.io/post/undefined.html</id>
+    <published>2019-05-14T06:59:11.000Z</published>
+    <updated>2019-05-14T06:59:11.095Z</updated>
     
     <summary type="html">
     
@@ -31,11 +31,61 @@
   </entry>
   
   <entry>
+    <title>betifual</title>
+    <link href="https://louyaolong.github.io/post/5e6634f7.html"/>
+    <id>https://louyaolong.github.io/post/5e6634f7.html</id>
+    <published>2019-05-14T02:43:23.000Z</published>
+    <updated>2019-05-14T06:44:32.084Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>真的不容易啊啊</p><p>终于搞定了</p><p>瞎搞</p></blockquote><a id="more"></a><p>##</p><p>##</p><p>##</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;真的不容易啊啊&lt;/p&gt;
+&lt;p&gt;终于搞定了&lt;/p&gt;
+&lt;p&gt;瞎搞&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>从来不看</title>
+    <link href="https://louyaolong.github.io/post/e578b639.html"/>
+    <id>https://louyaolong.github.io/post/e578b639.html</id>
+    <published>2019-05-14T01:02:13.000Z</published>
+    <updated>2019-05-14T07:13:33.223Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>人生乃是一面镜子，<br>从镜子里认识自己，<br>我要称之为头等大事，<br>也只是我们追求的目的！</p></blockquote><a id="more"></a><div class="note success no-icon">            <p>Fuck</p>          </div><div class="note danger">            <p>Fuck</p>          </div><p>点点点</p><blockquote><p>content</p><footer><strong>[author[</strong><cite>source]] [link] [source_link_title]</cite></footer></blockquote><h2 id="尝试一下吧"><a href="#尝试一下吧" class="headerlink" title="尝试一下吧"></a>尝试一下吧</h2><h3 id="这是测试"><a href="#这是测试" class="headerlink" title="这是测试"></a>这是测试</h3><div class="note primary"><p>primary</p></div><h2 id="可以的"><a href="#可以的" class="headerlink" title="可以的"></a>可以的</h2><h2 id="我认为没问题"><a href="#我认为没问题" class="headerlink" title="我认为没问题"></a>我认为没问题</h2><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;人生乃是一面镜子，&lt;br&gt;从镜子里认识自己，&lt;br&gt;我要称之为头等大事，&lt;br&gt;也只是我们追求的目的！&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="学习" scheme="https://louyaolong.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="chengg" scheme="https://louyaolong.github.io/categories/%E5%AD%A6%E4%B9%A0/chengg/"/>
+    
+    
+      <category term="工具" scheme="https://louyaolong.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="测试" scheme="https://louyaolong.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="人性" scheme="https://louyaolong.github.io/tags/%E4%BA%BA%E6%80%A7/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="https://louyaolong.github.io/uncategorized/2019/05/12/hello-world/"/>
-    <id>https://louyaolong.github.io/uncategorized/2019/05/12/hello-world/</id>
+    <link href="https://louyaolong.github.io/post/4a17b156.html"/>
+    <id>https://louyaolong.github.io/post/4a17b156.html</id>
     <published>2019-05-11T17:20:07.225Z</published>
-    <updated>2019-05-12T13:41:51.896Z</updated>
+    <updated>2019-05-14T06:49:04.488Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><p>[TOC]</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><blockquote><p> More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p></blockquote><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
@@ -53,12 +103,12 @@
   
   <entry>
     <title>如何高效记笔记</title>
-    <link href="https://louyaolong.github.io/%E5%B7%A5%E5%85%B7%E7%B1%BB/2019/05/11/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E8%AE%B0%E7%AC%94%E8%AE%B0/"/>
-    <id>https://louyaolong.github.io/工具类/2019/05/11/如何高效记笔记/</id>
+    <link href="https://louyaolong.github.io/post/9431294a.html"/>
+    <id>https://louyaolong.github.io/post/9431294a.html</id>
     <published>2019-05-11T15:44:14.969Z</published>
-    <updated>2019-05-13T01:05:33.496Z</updated>
+    <updated>2019-05-14T06:49:04.491Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="笔记的种类"><a href="#笔记的种类" class="headerlink" title="笔记的种类"></a>笔记的种类</h2><ul><li>查阅类<blockquote><p>信息记录</p></blockquote></li><li>复习类<blockquote><p>学习资料</p></blockquote><h2 id="笔记目的"><a href="#笔记目的" class="headerlink" title="笔记目的"></a>笔记目的</h2><strong>根据笔记种类目的分为两种</strong></li></ul><ol><li>查看信息<blockquote><p>不需要思考，只需查到即可</p></blockquote></li><li>复习记录的资料<blockquote><p>需要思考，明确复习这篇笔记的目的，带着问题再去复习，而不是打开笔记即是内容<br>这样的复习效率是很低的，而且也不利于记忆</p></blockquote><h2 id="笔记记录思路、软件"><a href="#笔记记录思路、软件" class="headerlink" title="笔记记录思路、软件"></a>笔记记录思路、软件</h2></li></ol><ul><li>大纲<blockquote><p>思路：思维导图 —— 用来链接思路和具体<br>软件：<a href="https://www.processon.com/mindmap/5cd4597ae4b09b16ffd993cb" target="_blank" rel="noopener">processOn</a></p></blockquote></li><li>思路<blockquote><p>逻辑图、时序图、甬道图<br>—— 用来梳理逻辑<br>软件：<a href="https://www.processon.com/mindmap/5cd4597ae4b09b16ffd993cb" target="_blank" rel="noopener">processOn</a></p></blockquote></li><li>具体<blockquote><p>md文本笔记<br>—— 记录具体的细节<br>—— 笔记开头应有这篇笔记的目录，这样做有两个好处：</p><ul><li>查阅类笔记可让查阅者直接跳转至所需信息处</li><li>复习类笔记可让复习者了解这篇笔记的大纲，可先思考后再查看细节</li></ul><p>软件：typora</p></blockquote></li></ul><p><strong>以上</strong></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="笔记的种类"><a href="#笔记的种类" class="headerlink" title="笔记的种类"></a>笔记的种类</h2><ul><li>查阅类<blockquote><p>信息记录</p></blockquote></li><li>复习类<blockquote><p>学习资料</p></blockquote></li></ul><h2 id="笔记目的"><a href="#笔记目的" class="headerlink" title="笔记目的"></a>笔记目的</h2><p><strong>根据笔记种类目的分为两种</strong></p><ol><li>查看信息<blockquote><p>不需要思考，只需查到即可</p></blockquote></li><li>复习记录的资料<blockquote><p>需要思考，明确复习这篇笔记的目的，带着问题再去复习，而不是打开笔记即是内容<br>这样的复习效率是很低的，而且也不利于记忆</p></blockquote></li></ol><h2 id="笔记记录思路、软件"><a href="#笔记记录思路、软件" class="headerlink" title="笔记记录思路、软件"></a>笔记记录思路、软件</h2><ul><li>大纲<blockquote><p>思路：思维导图<br>「 用来链接思路和具体」<br>软件：<a href="https://www.processon.com/mindmap/5cd4597ae4b09b16ffd993cb" target="_blank" rel="noopener">processOn</a></p></blockquote></li><li>思路<blockquote><p>逻辑图、时序图、甬道图<br>「 用来梳理逻辑 」<br>软件：<a href="https://www.processon.com/mindmap/5cd4597ae4b09b16ffd993cb" target="_blank" rel="noopener">processOn</a></p></blockquote></li><li>具体<blockquote><p>md文本笔记<br>「 记录具体的细节 」<br>「 笔记开头应有这篇笔记的目录，这样做有两个好处：</p><ul><li>查阅类笔记可让查阅者直接跳转至所需信息处</li><li>复习类笔记可让复习者了解这篇笔记的大纲，可先思考后再查看细节」<br>软件：typora</li></ul></blockquote></li></ul><p><strong>以上</strong></p>]]></content>
     
     <summary type="html">
     
