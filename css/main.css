@@ -1812,7 +1812,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #cc8c75;
+  background: #ff77cb;
 }
 .feed-link,
 .chat {
@@ -3046,7 +3046,7 @@ ul.breadcrumb li+li:last-child {
   padding-top: 0px;
 }
 #sidebar {
-  margin-top: 170px !important;
+  margin-top: 260px !important;
 }
 .post-copyright {
   margin: 2em 0 0;

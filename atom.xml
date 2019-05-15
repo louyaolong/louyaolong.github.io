@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://louyaolong.github.io/"/>
-  <updated>2019-05-14T06:49:04.491Z</updated>
+  <updated>2019-05-15T06:04:45.895Z</updated>
   <id>https://louyaolong.github.io/</id>
   
   <author>
@@ -20,21 +20,28 @@
     <title>如何高效记笔记</title>
     <link href="https://louyaolong.github.io/post/9431294a.html"/>
     <id>https://louyaolong.github.io/post/9431294a.html</id>
-    <published>2019-05-11T15:44:14.969Z</published>
-    <updated>2019-05-14T06:49:04.491Z</updated>
+    <published>2019-05-13T03:03:10.000Z</published>
+    <updated>2019-05-15T06:04:45.895Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="笔记的种类"><a href="#笔记的种类" class="headerlink" title="笔记的种类"></a>笔记的种类</h2><ul><li>查阅类<blockquote><p>信息记录</p></blockquote></li><li>复习类<blockquote><p>学习资料</p></blockquote></li></ul><h2 id="笔记目的"><a href="#笔记目的" class="headerlink" title="笔记目的"></a>笔记目的</h2><p><strong>根据笔记种类目的分为两种</strong></p><ol><li>查看信息<blockquote><p>不需要思考，只需查到即可</p></blockquote></li><li>复习记录的资料<blockquote><p>需要思考，明确复习这篇笔记的目的，带着问题再去复习，而不是打开笔记即是内容<br>这样的复习效率是很低的，而且也不利于记忆</p></blockquote></li></ol><h2 id="笔记记录思路、软件"><a href="#笔记记录思路、软件" class="headerlink" title="笔记记录思路、软件"></a>笔记记录思路、软件</h2><ul><li>大纲<blockquote><p>思路：思维导图<br>「 用来链接思路和具体」<br>软件：<a href="https://www.processon.com/mindmap/5cd4597ae4b09b16ffd993cb" target="_blank" rel="noopener">processOn</a></p></blockquote></li><li>思路<blockquote><p>逻辑图、时序图、甬道图<br>「 用来梳理逻辑 」<br>软件：<a href="https://www.processon.com/mindmap/5cd4597ae4b09b16ffd993cb" target="_blank" rel="noopener">processOn</a></p></blockquote></li><li>具体<blockquote><p>md文本笔记<br>「 记录具体的细节 」<br>「 笔记开头应有这篇笔记的目录，这样做有两个好处：</p><ul><li>查阅类笔记可让查阅者直接跳转至所需信息处</li><li>复习类笔记可让复习者了解这篇笔记的大纲，可先思考后再查看细节」<br>软件：typora</li></ul></blockquote></li></ul><p><strong>以上</strong></p>]]></content>
+    <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>为何记笔记？</p><p>你记的笔记真的有用吗？</p></blockquote><a id="more"></a><h2 id="笔记的种类"><a href="#笔记的种类" class="headerlink" title="笔记的种类"></a>笔记的种类</h2><ul><li><h3 id="查阅类"><a href="#查阅类" class="headerlink" title="查阅类"></a>查阅类</h3><div class="note info">            <p>作用：信息记录</p>          </div></li><li><h3 id="复习类"><a href="#复习类" class="headerlink" title="复习类"></a>复习类</h3><div class="note info">            <p>作用：学习资料</p>          </div></li></ul><h2 id="笔记目的"><a href="#笔记目的" class="headerlink" title="笔记目的"></a>笔记目的</h2><p><strong>根据笔记种类目的分为两种</strong></p><ol><li><h3 id="查看信息"><a href="#查看信息" class="headerlink" title="查看信息"></a>查看信息</h3><div class="note info">            <p>不需要思考，只需查到即可</p>          </div></li><li><h3 id="复习记录的资料"><a href="#复习记录的资料" class="headerlink" title="复习记录的资料"></a>复习记录的资料</h3><div class="note info">            <p>需要思考，明确复习这篇笔记的目的，带着问题再去复习，而不是打开笔记即是内容<br>这样的复习效率是很低的，而且也不利于记忆</p>          </div> </li></ol><h2 id="笔记记录思路、软件"><a href="#笔记记录思路、软件" class="headerlink" title="笔记记录思路、软件"></a>笔记记录思路、软件</h2><ul><li><h3 id="大纲"><a href="#大纲" class="headerlink" title="大纲"></a>大纲</h3><div class="note success no-icon">            <p>实现：思维导图「 用来链接思路和具体」<br>软件：<a href="https://www.processon.com/mindmap/5cd4597ae4b09b16ffd993cb" target="_blank" rel="noopener">processOn</a></p>          </div> </li><li><h3 id="思路"><a href="#思路" class="headerlink" title="思路"></a>思路</h3><div class="note success no-icon">            <p>实现：逻辑图、时序图、甬道图「 用来梳理逻辑 」<br>软件：<a href="https://www.processon.com/mindmap/5cd4597ae4b09b16ffd993cb" target="_blank" rel="noopener">processOn</a></p>          </div> </li><li><h3 id="具体"><a href="#具体" class="headerlink" title="具体"></a>具体</h3>  <div class="note danger no-icon">            <p>  实现：md文本笔记<br>  作用：</p><blockquote><ol><li>记录具体的细节 </li><li>笔记开头应有这篇笔记的目录，这样做有两个好处：<ul><li>查阅类笔记可让查阅者直接跳转至所需信息处</li><li>复习类笔记可让复习者了解这篇笔记的大纲，<strong>可先思考后再查看细节</strong></li></ul></li></ol></blockquote><p>软件：typor</p>          </div> </li></ul><p><strong>以上</strong></p>]]></content>
     
     <summary type="html">
     
-      如何高效的记录笔记是一件值得思考的事情。
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;为何记笔记？&lt;/p&gt;
+
+&lt;p&gt;你记的笔记真的有用吗？&lt;/p&gt;
+&lt;/blockquote&gt;
     
     </summary>
     
-      <category term="工具类" scheme="https://louyaolong.github.io/categories/%E5%B7%A5%E5%85%B7%E7%B1%BB/"/>
+      <category term="效率学习" scheme="https://louyaolong.github.io/categories/%E6%95%88%E7%8E%87%E5%AD%A6%E4%B9%A0/"/>
     
     
-      <category term="工具" scheme="https://louyaolong.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
+      <category term="笔记" scheme="https://louyaolong.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="note" scheme="https://louyaolong.github.io/tags/note/"/>
+    
+      <category term="做笔记" scheme="https://louyaolong.github.io/tags/%E5%81%9A%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
