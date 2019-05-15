@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://louyaolong.github.io/"/>
-  <updated>2019-05-14T06:59:11.095Z</updated>
+  <updated>2019-05-14T06:49:04.491Z</updated>
   <id>https://louyaolong.github.io/</id>
   
   <author>
@@ -15,91 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>index</title>
-    <link href="https://louyaolong.github.io/post/undefined.html"/>
-    <id>https://louyaolong.github.io/post/undefined.html</id>
-    <published>2019-05-14T06:59:11.000Z</published>
-    <updated>2019-05-14T06:59:11.095Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>betifual</title>
-    <link href="https://louyaolong.github.io/post/5e6634f7.html"/>
-    <id>https://louyaolong.github.io/post/5e6634f7.html</id>
-    <published>2019-05-14T02:43:23.000Z</published>
-    <updated>2019-05-14T06:44:32.084Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>真的不容易啊啊</p><p>终于搞定了</p><p>瞎搞</p></blockquote><a id="more"></a><p>##</p><p>##</p><p>##</p><hr>]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;真的不容易啊啊&lt;/p&gt;
-&lt;p&gt;终于搞定了&lt;/p&gt;
-&lt;p&gt;瞎搞&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>从来不看</title>
-    <link href="https://louyaolong.github.io/post/e578b639.html"/>
-    <id>https://louyaolong.github.io/post/e578b639.html</id>
-    <published>2019-05-14T01:02:13.000Z</published>
-    <updated>2019-05-14T07:13:33.223Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>人生乃是一面镜子，<br>从镜子里认识自己，<br>我要称之为头等大事，<br>也只是我们追求的目的！</p></blockquote><a id="more"></a><div class="note success no-icon">            <p>Fuck</p>          </div><div class="note danger">            <p>Fuck</p>          </div><p>点点点</p><blockquote><p>content</p><footer><strong>[author[</strong><cite>source]] [link] [source_link_title]</cite></footer></blockquote><h2 id="尝试一下吧"><a href="#尝试一下吧" class="headerlink" title="尝试一下吧"></a>尝试一下吧</h2><h3 id="这是测试"><a href="#这是测试" class="headerlink" title="这是测试"></a>这是测试</h3><div class="note primary"><p>primary</p></div><h2 id="可以的"><a href="#可以的" class="headerlink" title="可以的"></a>可以的</h2><h2 id="我认为没问题"><a href="#我认为没问题" class="headerlink" title="我认为没问题"></a>我认为没问题</h2><hr>]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;人生乃是一面镜子，&lt;br&gt;从镜子里认识自己，&lt;br&gt;我要称之为头等大事，&lt;br&gt;也只是我们追求的目的！&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="学习" scheme="https://louyaolong.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
-    
-      <category term="chengg" scheme="https://louyaolong.github.io/categories/%E5%AD%A6%E4%B9%A0/chengg/"/>
-    
-    
-      <category term="工具" scheme="https://louyaolong.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-      <category term="测试" scheme="https://louyaolong.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-      <category term="人性" scheme="https://louyaolong.github.io/tags/%E4%BA%BA%E6%80%A7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://louyaolong.github.io/post/4a17b156.html"/>
-    <id>https://louyaolong.github.io/post/4a17b156.html</id>
-    <published>2019-05-11T17:20:07.225Z</published>
-    <updated>2019-05-14T06:49:04.488Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><p>[TOC]</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><blockquote><p> More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p></blockquote><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>如何高效记笔记</title>

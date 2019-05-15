@@ -1,35 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[index]]></title>
-    <url>%2Fpost%2Fundefined.html</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title><![CDATA[betifual]]></title>
-    <url>%2Fpost%2F5e6634f7.html</url>
-    <content type="text"><![CDATA[真的不容易啊啊 终于搞定了 瞎搞 ## ## ##]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[从来不看]]></title>
-    <url>%2Fpost%2Fe578b639.html</url>
-    <content type="text"><![CDATA[人生乃是一面镜子，从镜子里认识自己，我要称之为头等大事，也只是我们追求的目的！ Fuck Fuck 点点点 content [author[source]] [link] [source_link_title] 尝试一下吧这是测试primary 可以的我认为没问题]]></content>
-      <categories>
-        <category>学习</category>
-        <category>chengg</category>
-      </categories>
-      <tags>
-        <tag>工具</tag>
-        <tag>测试</tag>
-        <tag>人性</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2Fpost%2F4a17b156.html</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. [TOC] Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-  </entry>
-  <entry>
     <title><![CDATA[如何高效记笔记]]></title>
     <url>%2Fpost%2F9431294a.html</url>
     <content type="text"><![CDATA[笔记的种类 查阅类 信息记录 复习类 学习资料 笔记目的根据笔记种类目的分为两种 查看信息 不需要思考，只需查到即可 复习记录的资料 需要思考，明确复习这篇笔记的目的，带着问题再去复习，而不是打开笔记即是内容这样的复习效率是很低的，而且也不利于记忆 笔记记录思路、软件 大纲 思路：思维导图「 用来链接思路和具体」软件：processOn 思路 逻辑图、时序图、甬道图「 用来梳理逻辑 」软件：processOn 具体 md文本笔记「 记录具体的细节 」「 笔记开头应有这篇笔记的目录，这样做有两个好处： 查阅类笔记可让查阅者直接跳转至所需信息处 复习类笔记可让复习者了解这篇笔记的大纲，可先思考后再查看细节」软件：typora 以上]]></content>
